@@ -29,13 +29,12 @@ The objectives of this analysis was to gain perspective and understanding of the
     * A subset of data provided by Box Office Mojo that tracks box office revenue
     * Contains data on film titles, studios, domestic gross, foreign gross, and year
 
-## Access to Cleaned Database Notebooks
+## Other Resources
 ***
-[Data Cleaning Notebook for Question 1](http://localhost:8892/notebooks/data%20cleaning%20for%20question%201%20(phase_1_project).ipynb)
 
-[Data Cleaning Notebook for Question 2](http://localhost:8892/notebooks/data%20cleaning%20for%20question%202%20(phase_1_project).ipynb)
+[Slideshow url](project1 presentation.pdf)
 
-[Data Cleaning Notebook for Question 3](http://localhost:8892/notebooks/data%20cleaning%20for%20question%203%20(phase_1_project).ipynb)
+Video url
 
 ## Proposed Questions
 ***
@@ -47,7 +46,7 @@ The objectives of this analysis was to gain perspective and understanding of the
 #### Graphics
 After data was cleaned and organized (see Access to cleaned database notebooks), exploratory data analysis was performed and the following graph was created using the Python data visualization library, Seaborn.
 
-![Screen%20Shot%202020-09-15%20at%2012.04.33%20PM.png](attachment:Screen%20Shot%202020-09-15%20at%2012.04.33%20PM.png)
+<img src= "images/avg ratings vs genre.png" />
 
 #### Observations and Conclusions
 Looking at the graph we can see that the top 5 genres in terms of ratings are Documentaries, Biographies, History, War, and Musicals. The lowest rated genres are Thrillers, Sci-Fi, and Horror. 
@@ -63,18 +62,18 @@ To make big impact in this industry, I would suggest Microsoft to make films bel
 #### Graphics
  The three graphs below the demostrate the relationships between the Movie Production Budget vs. the Domestic Gross, the Movie Production Budget vs. the Worldwide Gross, and the Domestic Gross vs. Worldwide Gross.
 
-![Screen%20Shot%202020-09-13%20at%205.03.40%20PM.png](attachment:Screen%20Shot%202020-09-13%20at%205.03.40%20PM.png)
+<img src= "images/budvsdom.png" />
 
-![Screen%20Shot%202020-09-13%20at%205.04.10%20PM.png](attachment:Screen%20Shot%202020-09-13%20at%205.04.10%20PM.png)
+<img src= "images/budvsww.png" />
 
-![Screen%20Shot%202020-09-13%20at%205.07.25%20PM.png](attachment:Screen%20Shot%202020-09-13%20at%205.07.25%20PM.png)
+<img src= "images/domvsww.png" />
 
 #### Covariance and Correlation
 Using the information gathered through exploratory data analysis, the covariance and the correlation between the Movie Budgets, Domestic Gross, and Worldwide Gross were able to be calculated. The tables below show the covariance and correlation matrixes for the data collected.
 
    ##### Covariance 
  
- ![Screen%20Shot%202020-09-13%20at%205.15.01%20PM.png](attachment:Screen%20Shot%202020-09-13%20at%205.15.01%20PM.png)
+<img src= "images/covariance.png" />
  
    * **Positive covariance** = positive relationship
    * **Negative covariance** = inverse relationship
@@ -82,8 +81,7 @@ Using the information gathered through exploratory data analysis, the covariance
 
 ##### Correlation
 
-![Screen%20Shot%202020-09-13%20at%205.22.26%20PM.png](attachment:Screen%20Shot%202020-09-13%20at%205.22.26%20PM.png)
-
+<img src= "images/correlation.png" />
 
 * **If two variables have a correlation of +0.9**: the change in one item results in a similar change to another item
 * **If two variables have a correlation of -0.9**: the change in one variable results in an opposite change in the other variable
@@ -112,7 +110,7 @@ When looking at domestic gross and worldwide gross, their correlation was 0.9388
 #### Graphics
  The graph below demostrates the top 15 film studios in terms of total gross revenue. Total gross revenue was determined by adding domestic gross and foreign gross. 
 
-![Screen%20Shot%202020-09-13%20at%206.23.02%20PM.png](attachment:Screen%20Shot%202020-09-13%20at%206.23.02%20PM.png)
+<img src= "images/top15studios.png" />
 
 #### Observations and Conclusions
 The graph above shows the top 15 film studios according to total revenue made by the studios. The top 5 film studios are Buena Vista Studios, 20th Century Fox Studios, Warner Bros Studios, Universal Studios, and Sony Studios. Buenva Vista Studios are best known for creating many of the Walt Disney films and Marvel Comics movies. Twenth Century Fox Studios have created some of the most well known films such as Titanic, the Home Alone series, Ice Age series, Cast Away, Avatar, etc. Warner Bros. Studios are known for popular films as the Harry Potter Series, The Shining, The Matrix, Space Jam, DC Comics films, etc. Universal Studios has created many famous movies like the Jurassic Park series, the Fast and Furious series, Jaws, Shrek Series, etc.
