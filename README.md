@@ -32,9 +32,15 @@ The objectives of this analysis was to gain perspective and understanding of the
 ## Other Resources
 ***
 
-[Slideshow url](project1 presentation.pdf)
+[Slideshow url](presentation.pdf)
 
-Video url
+[Video url](presentation_zoom.mp4)
+
+[Data Cleaning for Question 1](data_cleaning_q1.ipynb)
+
+[Data Cleaning for Question 2](data_cleaning_q2.ipynb)
+
+[Data Cleaning for Question 3](data_cleaning_q3.ipynb)
 
 ## Proposed Questions
 ***
