@@ -61,7 +61,7 @@ Looking at the graph we can see that the top 5 genres in terms of ratings are Do
 To make big impact in this industry, I would suggest Microsoft to make films belonging to the lowest scored genres. While it is a risk, if the movie are high quality, the fans will receive them very well since they are usually disappointed with these genres. The top scoring genres do not seem to me that they reach all audiences, however, it is easier to reach all audiences in the lower rated categories.
 
 ***
-### Question 2. Can a Larger Production Budget Improve Domestic and Worldwide Gross Profits?¶
+### Question 2. Can a Larger Production Budget Improve Domestic and Worldwide Gross Profits?
 #### To answer this question, data was collected from the following dataset:
 * tn.movie_budgets.csv
 
@@ -109,7 +109,7 @@ The correlation obtained for domestic gross and movie production budject was low
 When looking at domestic gross and worldwide gross, their correlation was 0.938853, which demostrates a very high correlation. This means that if a movie does well domestically, it will most likely do well internationally. The opposite as well is true. If a movie does not do well domestically, the same will be for the international gross. In order for Microsoft to succeed in the film industry, they should focus on how domestic audiences will receive a film and they should consider releasing their movies abroad to make the most money.
 
 ***
-### Question 3. What are the Top 15 Film Studios in Terms of Total Gross Revenue?¶
+### Question 3. What are the Top 15 Film Studios in Terms of Total Gross Revenue?
 #### To answer this question, data was collected from the following dataset:
 * bom.movie_gross.cvs
 
